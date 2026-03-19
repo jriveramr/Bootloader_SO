@@ -1,0 +1,9 @@
+Generar números pseudoaleatorios
+
+X ∈ [0, 79]
+Y ∈ [0, 24]
+
+en terminal:
+make run
+en qemu:
+x=55 y=22
